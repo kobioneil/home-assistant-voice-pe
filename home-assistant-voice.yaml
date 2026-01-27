@@ -1721,7 +1721,7 @@ micro_wake_word:
   models:
     - model: https://raw.githubusercontent.com/kobioneil/micro-wake-word-models/refs/heads/main/models/listen_to_me.json
       id: listen_to_me
-    - model: okay_nabu
+    - model: https://github.com/kahrendt/microWakeWord/releases/download/okay_nabu_20241226.3/okay_nabu.json
       id: okay_nabu
     - model: hey_jarvis
       id: hey_jarvis
