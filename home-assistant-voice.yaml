@@ -1721,8 +1721,8 @@ micro_wake_word:
     gain_factor: 4
   stop_after_detection: false
   models:
-    - model: https://raw.githubusercontent.com/kobioneil/micro-wake-word-models/refs/heads/main/models/listen_to_me.json
-      id: listen_to_me
+    - model: https://raw.githubusercontent.com/kobioneil/micro-wake-word-models/refs/heads/main/models/listen_to_me_2.json
+      id: listen_to_me_2
     - model: https://github.com/kahrendt/microWakeWord/releases/download/okay_nabu_20241226.3/okay_nabu.json
       id: okay_nabu
     - model: hey_jarvis
